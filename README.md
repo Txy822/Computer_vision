@@ -1,2 +1,4 @@
 # Computer_vision
-done by matlab and mainly for 3D reconstruction and Face Recognition.
+
+
+This project is course assesment and matlab was used to develop the work and mainly it was for 3D reconstruction and Face Recognition.
