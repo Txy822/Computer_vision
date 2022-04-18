@@ -7,6 +7,6 @@ This project is course assesment and matlab was used to develop the work and mai
 The reconstruction and face recognition taskes were carried out
 
 
-<img src="Images/camera_center.png" alt ="camera_center "/>
+<!-- <img src="Images/camera_center.png" alt ="camera_center "/> -->
 <img src="Images/face_recognition.png" alt ="facerecognition"/>
 <img src="Images/reconstruction.png" alt ="reconstruction"/>
