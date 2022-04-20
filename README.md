@@ -3,7 +3,7 @@
 - This Computer vision and robot vision  course work was developed using matlab.
 - It mainly focuses about 3D reconstruction and Face Recognition.
 
-## Face Recgnition 
+## Face Recognition 
 
 One major problem of images is as it has many pixels it is computationally expensive. Therefore dimensionality reduction technique like Principal Component Analysis(PCA) or Convolutional Neural Network(CNN) are crucial to tackle this pitfall. The face recognition here is developed using PCA. 
 - Transform the image of bitmap inputs which are considered as training inputs  to different dimension vectors 
@@ -12,7 +12,7 @@ One major problem of images is as it has many pixels it is computationally expen
 - Faces are projected from combination of these eigenfaces and mean 
 - Recognition is  done by comparing the projected image and original known using Euclidean distance to measure similarity
 - Add the convenient  threshold value to identify the given image as recognized or not
-- This approach over other face recognition system is because of its simplicity, speed and insensitivity to small or gradual changes of faces. 
+- This approach is better over the other face recognition system because of its simplicity, speed and insensitivity to small or gradual changes of faces. 
 
 The following figure shows how the developed face recognition system can identify the input image and be able to recognise it to give access. Which is useful for security systems. 
 
